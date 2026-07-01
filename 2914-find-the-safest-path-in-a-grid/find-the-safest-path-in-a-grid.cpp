@@ -1,70 +1,99 @@
 class Solution {
 public:
     int maximumSafenessFactor(vector<vector<int>>& grid) {
-        int n = grid.size();
+         int n = grid.size();
+        int N = n * n;
 
-        vector<vector<int>> dist(n, vector<int>(n, INT_MAX));
-        queue<pair<int,int>> q;
+        vector<int> dist(N, -1);
+        queue<int> q;
 
         // Multi-source BFS
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(grid[i][j]) {
-                    dist[i][j] = 0;
-                    q.push({i, j});
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j]) {
+                    int id = i * n + j;
+                    dist[id] = 0;
+                    q.push(id);
                 }
             }
         }
 
-        int dx[4] = {1, -1, 0, 0};
-        int dy[4] = {0, 0, 1, -1};
+        static const int dr[4] = {-1, 1, 0, 0};
+        static const int dc[4] = {0, 0, -1, 1};
 
-        while(!q.empty()) {
-            auto [x, y] = q.front();
+        while (!q.empty()) {
+            int id = q.front();
             q.pop();
 
-            for(int k = 0; k < 4; k++) {
-                int nx = x + dx[k];
-                int ny = y + dy[k];
+            int r = id / n;
+            int c = id % n;
 
-                if(nx >= 0 && ny >= 0 && nx < n && ny < n &&
-                   dist[nx][ny] == INT_MAX) {
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
 
-                    dist[nx][ny] = dist[x][y] + 1;
-                    q.push({nx, ny});
-                }
-            }
-        }
-
-        priority_queue<tuple<int,int,int>> pq;
-        vector<vector<int>> best(n, vector<int>(n, -1));
-
-        pq.push({dist[0][0], 0, 0});
-        best[0][0] = dist[0][0];
-
-        while(!pq.empty()) {
-            auto [safe, x, y] = pq.top();
-            pq.pop();
-
-            if(x == n - 1 && y == n - 1)
-                return safe;
-
-            if(safe < best[x][y]) continue;
-
-            for(int k = 0; k < 4; k++) {
-                int nx = x + dx[k];
-                int ny = y + dy[k];
-
-                if(nx >= 0 && ny >= 0 && nx < n && ny < n) {
-
-                    int nsafe = min(safe, dist[nx][ny]);
-
-                    if(nsafe > best[nx][ny]) {
-                        best[nx][ny] = nsafe;
-                        pq.push({nsafe, nx, ny});
+                if (nr >= 0 && nr < n && nc >= 0 && nc < n) {
+                    int nid = nr * n + nc;
+                    if (dist[nid] == -1) {
+                        dist[nid] = dist[id] + 1;
+                        q.push(nid);
                     }
                 }
             }
+        }
+
+        vector<pair<int,int>> cells;
+        cells.reserve(N);
+        for (int i = 0; i < N; i++)
+            cells.push_back({dist[i], i});
+
+        sort(cells.begin(), cells.end(),
+             [](const auto &a, const auto &b) {
+                 return a.first > b.first;
+             });
+
+        vector<int> parent(N), sz(N, 1);
+        iota(parent.begin(), parent.end(), 0);
+
+        auto find = [&](int x) {
+            while (parent[x] != x) {
+                parent[x] = parent[parent[x]];
+                x = parent[x];
+            }
+            return x;
+        };
+
+        auto unite = [&](int a, int b) {
+            a = find(a);
+            b = find(b);
+            if (a == b) return;
+            if (sz[a] < sz[b]) swap(a, b);
+            parent[b] = a;
+            sz[a] += sz[b];
+        };
+
+        vector<char> active(N, 0);
+
+        for (auto &[safe, id] : cells) {
+            active[id] = 1;
+
+            int r = id / n;
+            int c = id % n;
+
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+
+                if (nr >= 0 && nr < n && nc >= 0 && nc < n) {
+                    int nid = nr * n + nc;
+                    if (active[nid])
+                        unite(id, nid);
+                }
+            }
+
+            if (active[0] && active[N - 1] &&
+                find(0) == find(N - 1))
+                return safe;
         }
 
         return 0;
