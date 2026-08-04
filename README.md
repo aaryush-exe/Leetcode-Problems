@@ -8,6 +8,7 @@
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [3731-find-missing-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3731-find-missing-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
