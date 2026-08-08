@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -80,9 +82,14 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 <!---LeetCode Topics End-->
