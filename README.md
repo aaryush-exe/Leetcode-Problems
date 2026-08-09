@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3731-find-missing-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -14,6 +15,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -22,6 +24,7 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Minimax
@@ -29,18 +32,21 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -92,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
