@@ -126,6 +126,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0115-distinct-subsequences](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -242,9 +243,11 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
