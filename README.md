@@ -44,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0115-distinct-subsequences](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
@@ -139,6 +141,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
 |  |
@@ -249,5 +252,6 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
