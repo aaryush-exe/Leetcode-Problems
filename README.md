@@ -91,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -291,4 +292,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
