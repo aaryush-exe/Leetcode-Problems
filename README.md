@@ -13,6 +13,7 @@
 | [2029-stone-game-ix](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -129,6 +130,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
