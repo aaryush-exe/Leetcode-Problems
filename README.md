@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -245,6 +246,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
