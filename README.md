@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
@@ -30,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
