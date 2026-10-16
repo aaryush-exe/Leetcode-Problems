@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0836-rectangle-overlap](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -314,4 +316,8 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
