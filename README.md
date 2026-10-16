@@ -46,6 +46,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -181,6 +182,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
