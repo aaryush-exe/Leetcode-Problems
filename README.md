@@ -7,6 +7,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
@@ -104,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -117,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -232,6 +235,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
 ## String Matching
 |  |
@@ -320,4 +324,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
