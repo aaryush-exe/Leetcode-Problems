@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
@@ -60,6 +61,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Prefix Sum
@@ -300,6 +303,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -358,4 +362,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
