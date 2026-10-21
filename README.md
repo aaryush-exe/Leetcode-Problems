@@ -33,6 +33,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3886-sum-of-sortable-integers) |
@@ -187,6 +188,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
