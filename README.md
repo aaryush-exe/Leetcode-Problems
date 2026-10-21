@@ -75,6 +75,7 @@
 | [1510-stone-game-iv](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1871-jump-game-vii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -177,6 +178,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1871-jump-game-vii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -220,6 +222,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1871-jump-game-vii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [3904-smallest-stable-index-ii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
@@ -374,4 +377,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
