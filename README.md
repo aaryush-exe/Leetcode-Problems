@@ -16,6 +16,7 @@
 | [1406-stone-game-iii](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2029-stone-game-ix](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2029-stone-game-ix/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aaryush-exe/Leetcode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -272,6 +274,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aaryush-exe/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
